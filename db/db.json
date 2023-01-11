@@ -1,6 +1,31 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+   {
+      "title": "Test Title",
+      "text": "Test text"
+   },
+   {
+      "title": "Monday",
+      "text": "Take out the trash\n",
+      "id": "160c5eb1-9e56-49f1-88f3-cdd326594915"
+   },
+   {
+      "title": "Tuesday",
+      "text": "Go to boxing class",
+      "id": "82c91839-82f8-4507-9b88-16692a444d5e"
+   },
+   {
+      "title": "Wednesday",
+      "text": "Get ready for my date!",
+      "id": "bbefcf2e-bf3d-4819-a0c0-96d82bd9ee32"
+   },
+   {
+      "title": "Thursday",
+      "text": "Finish up group project",
+      "id": "7fd9b692-1409-42ef-9b6a-dcd7b8edd850"
+   },
+   {
+      "title": "Thursday",
+      "text": "Group project",
+      "id": "67ffae06-f345-4612-8c7e-8ecc3099d907"
+   }
 ]
